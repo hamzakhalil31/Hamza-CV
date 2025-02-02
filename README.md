@@ -1,2 +1,0 @@
-# Hamza-CV
-CV Site
